@@ -1,4 +1,4 @@
-### Hi there / Bonjour à toi 👋
+### Hi there 👋
 
 ![Profile views](https://gpvc.arturio.dev/Softwayback)
 
