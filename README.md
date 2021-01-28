@@ -2,10 +2,10 @@
 
 ![Profile views](https://gpvc.arturio.dev/Softwayback)
 
-<a href="https://youtu.be/_S7WEVLbQ-Y">
+<a href="https://www.youtube.com/watch?v=vTIIMJ9tUc8">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Softwayback&count_private=true&show_icons=true&theme=dark&include_all_commits=true" />
 </a>
-<a href="https://youtu.be/cE0wfjsybIQ">
+<a href="https://www.youtube.com/watch?v=PL9iMPx9CpQ">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Softwayback&langs_count=10&layout=compact&hide=javascript" />
 </a>
 
