@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hej! 👋
 
 ![Profile views](https://gpvc.arturio.dev/Softwayback)
 
