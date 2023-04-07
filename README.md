@@ -1,4 +1,4 @@
-### Hej! 👋
+### Hé, bonjour ! 👋
 
 ![Profile views](https://gpvc.arturio.dev/Softwayback)
 
@@ -9,4 +9,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Softwayback&langs_count=10&layout=compact&hide=javascript&theme=synthwave" />
 </a>
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,arduino,bash,c,cs,cpp,cmake,css,html,docker,figma,github,githubactions,js,linux,materialui,mongodb,pr,react,ts,unity,xd)](https://skillicons.dev)
+## My skills
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,arduino,bash,c,cs,cpp,cmake,css,html,docker,figma,github,githubactions,js,linux,materialui,mongodb,pr,react,ts,unity,xd&perline=7)](https://skillicons.dev)
