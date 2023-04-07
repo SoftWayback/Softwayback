@@ -10,4 +10,4 @@
 </a>
 
 ## My skills
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,arduino,bash,c,cs,cpp,cmake,css,html,docker,figma,github,githubactions,js,linux,materialui,mongodb,pr,react,ts,unity,xd&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,react,js,ts,,css,html,materialui,mongodb,docker,arduino,bash,c,cs,cpp,cmake,github,githubactions,linux,unity,pr,xd,figma&perline=7)](https://skillicons.dev)
