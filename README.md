@@ -9,8 +9,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Softwayback&langs_count=10&layout=compact&hide=javascript&theme=synthwave" />
 </a>
 
-
-[willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Softwayback)
-
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Softwayback&langs_count=10)
-
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,arduino,bash,c,cs,cpp,cmake,css,html,docker,figma,github,githubactions,js,linux,materialui,mongodb,pr,react,ts,unity,xd)](https://skillicons.dev)
