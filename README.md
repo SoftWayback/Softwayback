@@ -1,7 +1,5 @@
 ### Hé, bonjour ! 👋
 
-![Profile views](https://gpvc.arturio.dev/Softwayback)
-
 <a href="https://www.youtube.com/watch?v=4qRZmFYdozY">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Softwayback&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true" />
 </a>
